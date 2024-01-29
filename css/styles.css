@@ -1,5 +1,5 @@
 .box{
-    background-color: blue;
+    background-color: red;
     min-height: 80px;
     margin: 10px 0px;
     color: white;
@@ -8,12 +8,12 @@
     
 }
 .header .hero .footer{
-    background-color: blueviolet;
+    background-color: green;
     margin-bottom: 10px;
 }
 .red{
-    background-color: brown;
+    background-color: yellow;
 }
 .five{
-    background-color: chocolate;
+    background-color: black;
 }
