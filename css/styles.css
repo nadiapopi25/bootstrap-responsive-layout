@@ -1,0 +1,19 @@
+.box{
+    background-color: blue;
+    min-height: 80px;
+    margin: 10px 0px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    
+}
+.header .hero .footer{
+    background-color: blueviolet;
+    margin-bottom: 10px;
+}
+.red{
+    background-color: brown;
+}
+.five{
+    background-color: chocolate;
+}
